@@ -27,7 +27,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 
 
-$config['base_url'] = 'http://localhost/encuesta/';  // Ruta base del sistema
+$config['base_url'] = 'http://encuesta.co/';  // Ruta base del sistema
 
 //~ $config['respaldos_url'] = 'http://localhost/facturacion/respaldos/';  // Ruta base para los respaldos del sistema
 
