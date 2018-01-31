@@ -3,7 +3,7 @@
     <?php
     if (isset($this->session->userdata['logged_in'])) {
 
-        header("location: http://localhost/encuesta/index.php/User_Authentication/user_login_process");
+        header("location: http://encuesta.co/index.php/User_Authentication/user_login_process");
     }
     ?>
     <head>
